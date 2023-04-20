@@ -1,3 +1,3 @@
-# practice
+# MY STUDY RECORD
 
-practice EDA, Crawling, modeling
+All My Data Science Exercises Is Here
